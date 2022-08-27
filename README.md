@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohit Baranwal.Welcome to My Github Profile.I am currently working with SMAC Think and as a Contractor with Amazon
-- 💻 Have 2 years 9 month of experience as a Java Backend Engineer where i have hands on with Spring Boot ,Rest Web Services, Java, kafka, Mysql ,Dyanmodb.                               Also have hands on with Frontend with Html/css/Javascript which include deployment of ms in AWS .Have experience in Kubernetes/Openshift.
+- 💻 Have 3 Years 2 Months of experience as a Java Backend Engineer where i have hands on with Spring Boot ,Rest Web Services, Java, kafka, Mysql ,Dyanmodb.                               Also have hands on with Frontend with Html/css/Javascript which include deployment of ms in AWS .Have experience in Kubernetes/Openshift, Docker Desktop.
 - Also gained hands on experience with EC2 ,S3 ,IAM ,Dynamodb,Cloud Watch.
 
    
