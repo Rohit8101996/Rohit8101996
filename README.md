@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit Baranwal.Welcome to My Github Profile.I am currently working with Redaptive Inc.
 - 🏢💼 Previously worked with Amazon, Optum as a Contractor 
-- 💻 Have 3 Years 2 Months of experience as a Java Backend Engineer where i have hands on with Spring Boot ,Rest Web Services, Hibernate, Spring Jpa, Java, kafka, Mysql ,PostGres.                               
+- 💻 Have 3 Years 7 Months of experience as a Java Backend Engineer where i have hands on with Spring Boot ,Rest Web Services, Hibernate, Spring Jpa, Java, kafka, Mysql ,PostGres.                               
 - Also worked with Frontend with Html/css/Javascript which include deployment of ms in AWS and have experience in Kubernetes/Openshift, Docker Desktop.
 - Also gained hands on experience with EC2 ,S3 ,IAM ,Dynamodb,Cloud Watch.
 
