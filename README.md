@@ -5,7 +5,7 @@
 - Also gained hands on experience with  S3, SQS, Lambda, Dynamodb, Event bridge, ECS, IAM, Cloud Watch.
 
    
-- 👀 Looking out opportunities which include development of Scaleable Backend Application using Spring Boot,Java ,Kafka, AWS and other latest backend tech stacks.
+- 👀 Looking out opportunities which include development of Scaleable Backend Application using Spring Boot, Java, Kafka, AWS and other latest backend tech stacks.
 - 📩 I am reachable at @rohitbaranwal.810@gmail.com
 <!---
 Rohit8101996/Rohit8101996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
