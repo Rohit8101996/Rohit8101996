@@ -3,7 +3,7 @@
 - 💻 Have 7+ Years of experience as a Backend Engineer where i have hands on with Java, Spring Boot, Rest Web Services, Kafka, Guice, Jersey ,Hibernate, Spring Jpa, Mockito, Junit, Rest Assured, Mysql ,PostGres, NodeJS, Jest.         
 - Also worked with Frontend with Html/css/Javascript which include deployment of ms in AWS with experience in Kubernetes/Openshift, Docker Desktop, worked in provisioning db server using docker locally , dockerizing application.
 - Also gained hands on experience with  S3, SQS, Lambda, Dynamodb, Step Functions, API Gateway, Event bridge, ECS, IAM, Cloud Watch.
-- Begineer level expertise to use Pyspark/SQL to write Jobs in Databrics.
+- Begineer level expertise to use Pyspark/SQL to write Jobs in Databricks.
 - Possess greater understanding and working on system design concepts where I have contributed to UML Diagram, Class Diagrams, Sequence Diagrams and Other Architectural Changes including Db Design for Table Schemas.
 - got hold as a strong Individual Contributor and a mentor who is solving complex business problems through code and supporting peers to address their part of challenge.
 
