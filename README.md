@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit Baranwal.Welcome to my Github Profile currently working with Redaptive Inc. as a Software Engineer-Expert.
+- 👋 Hi, I’m @Rohit Baranwal.Welcome to my Github Profile currently working with Redaptive Inc. as a Technical Lead(Software Engineer-Expert).
 - 🏢💼 Previously worked with Amazon, Optum as a Contractor 
 - 💻 Have 7+ Years of experience as a Backend Engineer where i have hands on with Java, Spring Boot, Rest Web Services, Kafka, Guice, Jersey ,Hibernate, Spring Jpa, Mockito, Junit, Rest Assured, Mysql ,PostGres, NodeJS, Jest which include deployment of ms in AWS with experience in Kubernetes/Openshift, Docker Desktop, worked in provisioning db server using docker locally , dockerizing application.      
 - Also worked with Frontend with Html/css/Javascript 
