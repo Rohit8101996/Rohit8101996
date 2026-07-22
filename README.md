@@ -2,7 +2,7 @@
 
 Backend Engineer with **7+ years of experience** building scalable distributed systems using **Java, Spring Boot, AWS, Kafka, PostgreSQL, Kubernetes, and Databricks**.
 
-Currently working as a **Technical Lead (Software Engineer - Expert)** at **Redaptive Inc.**
+Currently working as a **Technical Lead (Senior Software Engineer)** at **Redaptive Inc.**
 
 ## 💼 Experience
 
