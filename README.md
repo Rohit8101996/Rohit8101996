@@ -75,7 +75,7 @@ Currently working as a **Technical Lead (Software Engineer - Expert)** at **Reda
 
 ## 🤝 Open to Opportunities
 
-Looking for Backend Engineer / Senior Backend Engineer / Staff Engineer opportunities involving:
+Looking for Backend Engineer / Senior Backend Engineer / Lead Backend Engineer/ Staff Engineer opportunities involving:
 
 - Java
 - Spring Boot
