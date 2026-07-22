@@ -1,16 +1,95 @@
-- 👋 Hi, I’m @Rohit Baranwal.Welcome to my Github Profile currently working with Redaptive Inc. as a Technical Lead(Software Engineer-Expert).
-- 🏢💼 Previously worked with Amazon, Optum as a Contractor 
-- 💻 Have 7+ Years of experience as a Backend Engineer where i have hands on with Java, Spring Boot, Rest Web Services, Kafka, Guice, Jersey ,Hibernate, Spring Jpa, Mockito, Junit, Rest Assured, Mysql ,PostGres, NodeJS, Jest which include deployment of ms in AWS with experience in Kubernetes/Openshift, Docker Desktop, worked in provisioning db server using docker locally , dockerizing application.      
-- Also worked with Frontend with Html/css/Javascript 
-- Also 5+ years of hands on experience with  S3, SQS, Lambda, Dynamodb, Step Functions, API Gateway, Event bridge, Kinesis, ECS, IAM, Cloud Watch.
-- Begineer level expertise to use Pyspark/SQL to write Jobs in Databricks.
-- Possess greater understanding and working on system design concepts where I have contributed to UML Diagram, Class Diagrams, Sequence Diagrams and Other Architectural Changes including Db Design for Table Schemas.
-- Got hold as a strong Individual Contributor and a mentor who is solving complex business problems through code and supporting peers to address their part of challenge.
+# 👋 Hi, I'm Rohit Baranwal
 
-   
-- 👀 Looking out opportunities which include development of Scalable Backend Application using Spring Boot, Java, Kafka, AWS, Typescript, Databricks and other latest backend tech stacks while addressing both Functional and Non-Functional Requirements of System.
-- 📩 I am reachable at @rohitbaranwal.810@gmail.com
-<!---
-Rohit8101996/Rohit8101996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Engineer with **7+ years of experience** building scalable distributed systems using **Java, Spring Boot, AWS, Kafka, PostgreSQL, Kubernetes, and Databricks**.
+
+Currently working as a **Technical Lead (Software Engineer - Expert)** at **Redaptive Inc.**
+
+## 💼 Experience
+
+- 🏢 Technical Lead (Senior Software Engineer) — Redaptive Inc.
+- ☁️ Previously worked with Amazon and Optum (Contract) and Publicis Sapient
+
+## 🚀 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Kafka
+- Guice
+- Jersey
+- Node.js
+- TypeScript
+
+### Databases
+- PostgreSQL
+- MySQL
+- DynamoDB
+
+### Cloud & DevOps
+- AWS (S3, SQS, Lambda, API Gateway, Kinesis, ECS, IAM, CloudWatch, Step Functions, EventBridge)
+- Docker
+- Kubernetes
+- OpenShift
+
+### Data Engineering
+- Databricks
+- PySpark
+- SQL
+
+### Testing
+- JUnit
+- Mockito
+- Rest Assured
+- Jest
+
+## 🏗️ Areas of Expertise
+
+- Microservices Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- System Design
+- Database Design
+- UML, Class & Sequence Diagrams
+- RESTful APIs
+- Performance Optimization
+- Backend Scalability
+
+## 🌱 Currently Learning
+
+- AI-powered Backend Applications
+- Spring AI
+- Agentic AI
+- MCP & A2A Protocols
+- Advanced Distributed System Design
+
+## 👨‍💻 What I Enjoy
+
+- Designing scalable backend systems
+- Solving complex business problems
+- Mentoring engineers
+- Building cloud-native applications
+- Exploring modern backend technologies
+
+## 🤝 Open to Opportunities
+
+Looking for Backend Engineer / Senior Backend Engineer / Staff Engineer opportunities involving:
+
+- Java
+- Spring Boot
+- AWS
+- Kafka
+- Kubernetes
+- Databricks
+- Distributed Systems
+- Event-Driven Architecture
+
+## 📫 Connect
+
+📧 **Email:** rohitbaranwal.810@gmail.com
+
+---
+
+*"Code for scale. Design for reliability. Build for impact."*
